@@ -1,0 +1,2 @@
+Name,Date,Open,High,Low,Close,Volume
+KBCNEUFIZ,20091110,102.60,102.60,102.60,102.60,100

@@ -1,0 +1,2 @@
+Name,Date,Open,High,Low,Close,Volume
+INTSNAG19034,20170630,3.38,3.38,3.38,3.38,888

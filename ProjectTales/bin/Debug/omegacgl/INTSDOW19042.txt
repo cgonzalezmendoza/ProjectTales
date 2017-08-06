@@ -1,0 +1,2 @@
+Name,Date,Open,High,Low,Close,Volume
+INTSDOW19042,20170720,120.80,120.80,120.50,120.50,81

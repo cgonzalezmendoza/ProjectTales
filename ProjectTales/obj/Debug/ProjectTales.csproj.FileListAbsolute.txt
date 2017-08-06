@@ -1,0 +1,6 @@
+c:\users\carlosenrique\documents\visual studio 2017\Projects\ProjectTales\ProjectTales\bin\Debug\ProjectTales.exe.config
+c:\users\carlosenrique\documents\visual studio 2017\Projects\ProjectTales\ProjectTales\bin\Debug\ProjectTales.exe
+c:\users\carlosenrique\documents\visual studio 2017\Projects\ProjectTales\ProjectTales\bin\Debug\ProjectTales.pdb
+c:\users\carlosenrique\documents\visual studio 2017\Projects\ProjectTales\ProjectTales\obj\Debug\ProjectTales.csprojResolveAssemblyReference.cache
+c:\users\carlosenrique\documents\visual studio 2017\Projects\ProjectTales\ProjectTales\obj\Debug\ProjectTales.exe
+c:\users\carlosenrique\documents\visual studio 2017\Projects\ProjectTales\ProjectTales\obj\Debug\ProjectTales.pdb

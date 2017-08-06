@@ -1,0 +1,2 @@
+Name,Date,Open,High,Low,Close,Volume
+KBCRAZFIZ,20100203,103.00,103.00,103.00,103.00,150
